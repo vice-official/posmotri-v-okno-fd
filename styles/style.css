@@ -101,7 +101,7 @@ ol {
 
 .search-form {
   display: grid;
-  grid-template-columns: 2fr 1fr 1fr; /* Даем больше места первому столбцу */
+  grid-template-columns: 2fr 1fr 1fr;
   gap: 40px;
   justify-content: space-between;
 }
