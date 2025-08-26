@@ -10,3 +10,5 @@
 - **Кнопка "показать еще"**
 - **Плеер**
 
+**Ссылка:**
+ https://github.com/username/posmotri-v-okno-fd
