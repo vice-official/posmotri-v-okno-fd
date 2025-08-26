@@ -11,4 +11,4 @@
 - **Плеер**
 
 **Ссылка:**
- https://github.com/username/posmotri-v-okno-fd
+ https://github.com/vice-official/posmotri-v-okno-fd
